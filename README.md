@@ -8,5 +8,4 @@ For online implementation, see [P300-speller of TimeFlux](https://github.com/tim
   *End-to-end P300 BCI using Bayesian accumulation of Riemannian probabilities*,
   Brain-Computer Interface, vol. 10, pp. 50-61, 2022
   https://hal.science/hal-03855169
-  https://doi.org/10.1080/2326263X.2022.2140467  
   https://doi.org/10.1080/2326263X.2022.2140467
